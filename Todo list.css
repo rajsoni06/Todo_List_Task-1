@@ -12,7 +12,7 @@ body
 
 .container {
     max-width: 600px;
-    margin: 25px auto;
+    margin: 10px auto;
     padding: 30px;
     background-image: url('https://cdn.wallpapersafari.com/18/40/6jWZFw.jpg'); /* Replace 'your-image-url.jpg' with the URL of your image */
     background-size: cover; /* Cover the entire container with the background image */
