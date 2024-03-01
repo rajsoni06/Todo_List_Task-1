@@ -73,7 +73,7 @@ footer {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    height: 350px; /* Adjust height as needed */
+    height: 370px; /* Adjust height as needed */
     align-items: center;
 }
 
