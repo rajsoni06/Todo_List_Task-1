@@ -1,0 +1,93 @@
+body 
+
+{
+            font-family: Arial, sans-serif;
+            background-image: url('https://w0.peakpx.com/wallpaper/323/21/HD-wallpaper-plain-white-abstract-thumbnail.jpg'); /* Replace 'your-image-url.jpg' with the URL of your image */
+            background-size: cover; /* Cover the entire viewport with the background image */
+            background-position: center; /* Center the background image */
+            margin: 0; /* Remove default margin */
+            padding: 0; /* Remove default padding */
+        }
+
+
+.container {
+    max-width: 600px;
+    margin: 25px auto;
+    padding: 30px;
+    background-image: url('https://cdn.wallpapersafari.com/18/40/6jWZFw.jpg'); /* Replace 'your-image-url.jpg' with the URL of your image */
+    background-size: cover; /* Cover the entire container with the background image */
+    background-position: center; /* Center the background image */
+    border: 2px solid black;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+h1 {
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #888;
+}
+  
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 400px; /* Adjust height as needed */
+    align-items: center;
+}
+
+.footer-text {
+    
+    text-orientation: mixed; 
+}
+
+.timer-input {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+    
